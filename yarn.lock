@@ -2,12 +2,10 @@
 # yarn lockfile v1
 
 
-"@brainandbones/skeleton@^0.30.7":
-  version "0.30.7"
-  resolved "https://registry.yarnpkg.com/@brainandbones/skeleton/-/skeleton-0.30.7.tgz#6c4dc4063eee963a71bd4b7bab4dcba32a00c64f"
-  integrity sha512-Jffy4JUglq+X/sWR41YEeFero4+NrrWB8L1tlOvSn6WRBYQvTTm95I00VvjOjDhrLB4tFFVYjF/D2CFuaOOKRg==
-  dependencies:
-    highlight.js "^11.6.0"
+"@brainandbones/skeleton@^0.32.19":
+  version "0.32.19"
+  resolved "https://registry.yarnpkg.com/@brainandbones/skeleton/-/skeleton-0.32.19.tgz#f747a36ff6ea0e6c4c5408e25b130f00bde990e7"
+  integrity sha512-vhpffwplTb6bqt9S+0OxOJZB4bzUcqPIMotMxqth72Cz/rnXOWFqTuTmJmYiUjoCfVSnF5GkszsmD+uUBvqMOg==
 
 "@cloudflare/workers-types@^3.14.0":
   version "3.15.0"
@@ -1061,11 +1059,6 @@ has@^1.0.3:
   integrity sha512-f2dvO0VU6Oej7RkWJGrehjbzMAjFp5/VKPp5tTpWIV4JHHZK1/BxbFRtf/siA2SWTe09caDmVtYYzWEIbBS4zw==
   dependencies:
     function-bind "^1.1.1"
-
-highlight.js@^11.6.0:
-  version "11.6.0"
-  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-11.6.0.tgz#a50e9da05763f1bb0c1322c8f4f755242cff3f5a"
-  integrity sha512-ig1eqDzJaB0pqEvlPVIpSSyMaO92bH1N2rJpLMN/nX396wTpDA4Eq0uK+7I/2XG17pFaaKE0kjV/XPeGt7Evjw==
 
 https-proxy-agent@^5.0.0:
   version "5.0.1"
