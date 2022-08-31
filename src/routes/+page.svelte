@@ -37,6 +37,8 @@
     {/await}
 </div>
 
-<footer class="text-center">
-    Esonhugh - 2022
+<footer>
+    <p class="text-center p-2">
+        Esonhugh - 2022
+    </p>
 </footer>
