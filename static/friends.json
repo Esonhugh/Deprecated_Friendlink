@@ -130,5 +130,11 @@
     "url": "https://h3a.moe/",
     "avatar": "https://cdn.jsdelivr.net/gh/h3a-moe/h3a-moe-asset/img/myavatar.jpg",
     "remark": "NULL"
+  },
+  {
+    "alias": "飞鸟记",
+    "url": "https://blog.aflybird.cn/",
+    "avatar": "https://avatars.githubusercontent.com/u/36830265",
+    "remark": "只能说真的是一只很爱飞的鸟吧"
   }
 ]
